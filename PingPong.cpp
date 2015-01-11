@@ -23,24 +23,7 @@ void PingPong::createThreadFunction(PingPong * obj){
 
 		std::unique_lock<std::mutex> lk(ball1->BallMutex);
 
-		//while()			//busy
 		if(ball1->getcycleCnt() == 0){ break;}
-
-		/*else if(ball1->getcycleCnt() == ball1->getCycle() && ball1->getthreadCnt() == 0){
-			
-			MQ->pop();													//pop	
-
-			obj->id = ball1->idHelper;
-			ball1->PlayerBallList.erase(obj->id);
-			MQ->push(ball1);							//push
-
-			displayThreadInfo(obj);
-
-			ball1->setthreadCnt(ball1->getthreadCnt() + 1);
-
-			ball1->BallAlarm.wait(lk);
-			
-		}*/
 
 		else if(ball1->getcycleCnt() == ball1->getCycle()){		//setup first cycle
 
