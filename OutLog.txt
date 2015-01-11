@@ -1,0 +1,6 @@
+
+--------------------------------- 
+ beginning of cycle 
+---------------------------------
+player 0 has the ball at cycle: 0
+sent 

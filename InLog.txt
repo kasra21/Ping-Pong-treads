@@ -1,0 +1,7 @@
+$10 $10 $10 what s up
+booooooooooo
+2
+threads: 8
+some other stuff
+cycles: 4
+if works? bar
