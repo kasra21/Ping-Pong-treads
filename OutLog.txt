@@ -2,5 +2,120 @@
 --------------------------------- 
  beginning of cycle 
 ---------------------------------
+player 1 has the ball at cycle: 0
+sent 
+received 
+player 5 has the ball at cycle: 0
+sent 
+received 
+player 7 has the ball at cycle: 0
+sent 
+received 
 player 0 has the ball at cycle: 0
 sent 
+received 
+player 6 has the ball at cycle: 0
+sent 
+received 
+player 3 has the ball at cycle: 0
+sent 
+received 
+player 4 has the ball at cycle: 0
+sent 
+received 
+player 2 has the ball at cycle: 0
+
+--------------------------------- 
+ end of cycle 
+---------------------------------
+
+--------------------------------- 
+ beginning of cycle 
+---------------------------------
+player 2 has the ball at cycle: 1
+sent 
+received 
+player 7 has the ball at cycle: 1
+sent 
+received 
+player 6 has the ball at cycle: 1
+sent 
+received 
+player 4 has the ball at cycle: 1
+sent 
+received 
+player 0 has the ball at cycle: 1
+sent 
+received 
+player 0 has the ball at cycle: 1
+sent 
+received 
+player 5 has the ball at cycle: 1
+sent 
+received 
+player 3 has the ball at cycle: 1
+
+--------------------------------- 
+ end of cycle 
+---------------------------------
+
+--------------------------------- 
+ beginning of cycle 
+---------------------------------
+player 3 has the ball at cycle: 2
+sent 
+received 
+player 7 has the ball at cycle: 2
+sent 
+received 
+player 4 has the ball at cycle: 2
+sent 
+received 
+player 0 has the ball at cycle: 2
+sent 
+received 
+player 2 has the ball at cycle: 2
+sent 
+received 
+player 0 has the ball at cycle: 2
+sent 
+received 
+player 6 has the ball at cycle: 2
+sent 
+received 
+player 5 has the ball at cycle: 2
+
+--------------------------------- 
+ end of cycle 
+---------------------------------
+
+--------------------------------- 
+ beginning of cycle 
+---------------------------------
+player 5 has the ball at cycle: 3
+sent 
+received 
+player 7 has the ball at cycle: 3
+sent 
+received 
+player 0 has the ball at cycle: 3
+sent 
+received 
+player 0 has the ball at cycle: 3
+sent 
+received 
+player 3 has the ball at cycle: 3
+sent 
+received 
+player 2 has the ball at cycle: 3
+sent 
+received 
+player 4 has the ball at cycle: 3
+sent 
+received 
+player 6 has the ball at cycle: 3
+
+--------------------------------- 
+ end of cycle 
+---------------------------------
+2015-02-11.09:18:07
